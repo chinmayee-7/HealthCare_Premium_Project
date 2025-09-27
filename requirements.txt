@@ -1,0 +1,9 @@
+joblib==1.5.2
+streamlit==1.46.0
+pandas==2.3.0
+scikit-learn==1.7.2
+numpy==2.1.2
+xgboost==3.0.5
+
+# cd "C:\Users\hp\CodeBasics\MACHINE LEARNING\HealthCare_Project\app"
+# & "C:\Users\hp\AppData\Local\Programs\Python\Python312\python.exe" -m streamlit run main.py
